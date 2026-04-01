@@ -1,0 +1,1 @@
+vue que c est une chaine de carractere on return on peut ausssi faire console.log mais ya undefined pour la 2em condition

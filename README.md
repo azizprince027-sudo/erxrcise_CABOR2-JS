@@ -15,3 +15,47 @@ identity([1,2,3]) -> [1,2,3]
 Exemple : double_number(4) -> 8
 
 [solution ici](./double_number(n).js)
+
+## EXERCICE3 
+
+Exercice 3 : Écrire une fonction nommée square(n) qui retourne le carré du nombre. Exemple :
+square(5) -> 25
+
+[solution ici](square\n.js)
+
+## EXERCICE4 
+
+Exercice 4 : Écrire une fonction nommée add(a, b) qui retourne la somme des deux nombres.
+Exemple : add(3,7) -> 10
+
+[solution ici](./add.js)
+
+## EXERCICE5
+
+Exercice 5 : Écrire une fonction nommée multiply(a, b) qui retourne le produit des deux nombres.
+Exemple : multiply(3,4) -> 12
+
+[solution ici](./multiply.js)
+
+
+## EXERCICE6
+
+Exercice 6 : Écrire une fonction nommée is_even(n) qui retourne True si le nombre est pair sinon
+False.
+
+[solution ici](./is_even.js)
+
+## EXERCICE7
+
+Exercice 7 : Écrire une fonction nommée is_positive(n) qui retourne True si le nombre est positif
+sinon False.
+
+[solution ici](./is_positive.js)
+
+## EXERCICE8
+
+Exercice 8 : Écrire une fonction nommée sum_list(numbers) qui retourne la somme des éléments
+d'une liste.
+
+[solution ici](./sum_list.js)
+
